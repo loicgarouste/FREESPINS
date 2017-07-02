@@ -1,0 +1,2 @@
+# FREESPINS
+GitHub Pages
