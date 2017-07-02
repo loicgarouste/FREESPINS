@@ -595,8 +595,22 @@ a:hover {
   font-size: 46px;
 }
 #form1-6 .form {
-  background: #fafbfc;
+  background: #000000;
 }
 #form1-6 .heading-title {
   color: #742282;
+}
+#footer2-9 .footer-list {
+  color: #74a3c7;
+}
+#footer2-9 .btn-social {
+  border-color: #74a3c7;
+  color: #74a3c7;
+}
+#footer2-9 .btn-social:hover {
+  background: #74a3c7;
+  color: #fff;
+}
+#footer2-9 .footer-header {
+  color: #94a5d0;
 }
