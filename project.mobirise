@@ -182,12 +182,12 @@
               "active": true
             }
           },
-          "text": "<a href=\"http://get.vegasfiesta.com/get/a/4218359\" target=\"_blank\" class=\"text-primary\">COME SPIN WITH ME</a>",
+          "text": "<a href=\"http://get.vegasfiesta.com/get/a/4218359\" target=\"_blank\">COME SPIN WITH ME</a>",
           "_styles": {
             "DIV": {
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "46px"
+              "font-size": "30px"
             }
           }
         },
