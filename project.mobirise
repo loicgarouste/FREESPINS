@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 12,
+    "uniqCompNum": 14,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/vegasfiesta2-128x48.png",
     "noImageResize": "",
@@ -40,160 +40,128 @@
       },
       "components": [
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-toggler": {
-              "color": "#c48cce"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#c48cce"
-            },
-            ".link, .dropdown-item": {
-              "color": "#c48cce",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            ".link": {
-              "font-size": "0.9rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
-            },
-            ".link:hover, .link:focus": {
-              "color": "#742282"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "#742282"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#c48cce"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#c48cce",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#742282"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#742282!important"
-            }
-          },
-          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "menu1",
-          "_anchor": "menu1-5",
+          "_name": "header6",
+          "_anchor": "header6-b",
           "_params": {
-            "bgColor": "#fff",
-            "fontSize": "0.9",
-            "imageSize": "5",
-            "fontName": {
-              "name": "Open Sans Condensed",
-              "css": "'Open Sans Condensed', sans-serif",
-              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            "imageSize": "26",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "containerColor1": "#000000",
+            "containerColor2": "#000000",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
             },
-            "fontColor": "#c48cce",
-            "fontHoverColor": "#742282",
-            "transparent": true,
-            "sticky": false,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vegasfiesta2-341x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://get.vegasfiesta.com/get/a/4218359\" target=\"_blank\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://get.vegasfiesta.com/get/a/4218359\" target=\"_blank\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"http://get.vegasfiesta.com/get/a/4218359\" aria-expanded=\"false\" target=\"_blank\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-secondary\" href=\"http://get.vegasfiesta.com/get/a/4218359\" target=\"_blank\">sign-up</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H1": {
-              "color": "#c48cce",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-7",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "0",
-            "bgColor": "#000000",
-            "showMeta": true
-          },
-          "title": "If You Like Spinning as Much as I do...<br><b><a href=\"http://get.vegasfiesta.com/get/a/4218359\" target=\"_blank\">Come Get Your 30 Free Spins!</a></b>",
-          "meta": "<a href=\"http://get.vegasfiesta.com/get/a/4218359\" target=\"_blank\">www.vegasfiesta.com</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image3",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "12px"
-            }
-          },
-          "_anchor": "image3-8",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "7",
-            "bgColor": "#000000",
-            "showText": true
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
           },
           "media": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/images/image2.jpg",
-              "width": 1400
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vegasfiesta2-1400x525.png",
+              "link": "http://get.vegasfiesta.com/get/a/4218359",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
-              "src": "https://youtu.be/M_qwORGMvS8",
-              "autoplay": "on",
-              "loop": "on",
-              "active": true
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             }
           },
-          "text": "COME SPIN WITH ME"
+          "title": "FREE SPINS AND SOOOO MUCH MORE!!<br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "46px"
+            }
+          }
+        },
+        {
+          "form": {
+            "action": "eddy.katri@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header8",
+          "_styles": {
+            ".btn": {
+              "font-size": "36px"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "header8-c",
+          "_params": {
+            "imageSize": "61",
+            "containerColor1": "#000000",
+            "containerColor2": "#000000",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showImage": true,
+            "showTitle": true,
+            "showText": false,
+            "showButton": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vegasfiesta2-2000x750.png",
+              "link": "http://get.vegasfiesta.com/get/a/4218359",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/M_qwORGMvS8",
+              "aspectratio": "4:3",
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "title": "If You Like Spinning as Much as I do...&nbsp;<span style=\"letter-spacing: 0px; line-height: 1.17em;\">Come Get Your 30 Free Spins!</span>",
+          "text": "Full-screen intro with image at the top. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://get.vegasfiesta.com/get/a/4218359\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COME SPIN WITH ME HERE</a>"
         },
         {
           "_tags": [
@@ -306,7 +274,7 @@
             "rows": "1",
             "showIcons": true
           },
-          "heading": "DIGITAL LIK Ltd. is licensed and regulated by the Gambling Commission (License Number: 000-039075-R-319385-002) for customers in the United Kingdom, and licensed by the Malta Gaming Authority (License Numbers: MGA/CL1/638/2010 and MGA/CL3/638/2010) for all other customers. <br>Company registered address: 8, Villa Seminia, Sir Temi Zammit Avenue, Ta’ Xbiex. License issue date: 6th July 2011. © Broadway Gaming Ltd. 2010 - 2017",
+          "heading": "DIGITAL LIK Ltd. is licensed and regulated by the Gambling Commission (License Number: 000-039075-R-317834-004) for customers in the United Kingdom, and licensed by the Malta Gaming Authority (License Numbers: MGA/CL1/742/2015 and MGA/CL3/638/2010) for all other customers. <br><br>",
           "list1": "",
           "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
@@ -317,57 +285,7 @@
           "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
           "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
           "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header6",
-          "_anchor": "header6-b",
-          "_params": {
-            "imageSize": "20",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "containerColor1": "#000000",
-            "containerColor2": "#000000",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/vegasfiesta2-1400x525.png",
-              "link": "http://get.vegasfiesta.com/get/a/4218359",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Intro with Media",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/vegascasinoslot/?ref=bookmarks\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
         }
       ]
     }

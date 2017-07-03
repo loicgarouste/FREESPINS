@@ -2,9 +2,6 @@
 
 
 
-
-
-
 body,
 input,
 textarea,
@@ -517,82 +514,15 @@ a:hover {
 .hamburger-icon:after {
   background-color: #742282;
 }
-#menu1-5 .hide-buttons .nav-btn {
-  display: none !important;
+#header6-b H3 {
+  text-align: left;
+  font-size: 46px;
 }
-#menu1-5 .navbar-toggler {
-  color: #c48cce;
+#header8-c .btn {
+  font-size: 36px;
 }
-#menu1-5 .close-icon::before,
-#menu1-5 .close-icon::after {
-  background-color: #c48cce;
-}
-#menu1-5 .link,
-#menu1-5 .dropdown-item {
-  color: #c48cce;
-  font-family: 'Open Sans Condensed', sans-serif;
-}
-#menu1-5 .link {
-  font-size: 0.9rem;
-}
-#menu1-5 .dropdown-item,
-#menu1-5 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
-}
-#menu1-5 .link:hover,
-#menu1-5 .link:focus {
-  color: #742282;
-}
-#menu1-5 .dropdown-item:hover::before,
-#menu1-5 .dropdown-item:focus::before {
-  background: #742282;
-}
-#menu1-5 .dropdown-item:hover,
-#menu1-5 .dropdown-item:focus {
-  color: #c48cce;
-}
-#menu1-5 .link[aria-expanded="true"],
-#menu1-5 .dropdown-menu {
-  background: #ffffff;
-}
-#menu1-5 .nav-dropdown-sm .link:focus,
-#menu1-5 .nav-dropdown-sm .link:hover,
-#menu1-5 .nav-dropdown-sm .dropdown-item:focus,
-#menu1-5 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu1-5 .navbar,
-#menu1-5 .nav-dropdown-sm,
-#menu1-5 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu1-5 .nav-dropdown-sm .dropdown-menu {
-  background: #fff;
-}
-#menu1-5 .bg-color.transparent .link {
-  color: #c48cce;
-  transition: none;
-}
-#menu1-5 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu1-5 .bg-color.transparent.opened .link:hover,
-#menu1-5 .bg-color.transparent.opened .link:focus {
-  color: #742282;
-}
-#menu1-5 .link[aria-expanded="true"],
-#menu1-5 .dropdown-item[aria-expanded="true"] {
-  color: #742282!important;
-}
-#content3-7 .mbr-section-title,
-#content3-7 .mbr-section-subtitle {
-  text-align: center;
-}
-#content3-7 H1 {
-  color: #c48cce;
-  font-family: 'Open Sans Condensed', sans-serif;
-}
-#image3-8 DIV {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 12px;
+#header8-c H3 {
+  font-size: 36px;
 }
 #form1-6 .form {
   background: #000000;
